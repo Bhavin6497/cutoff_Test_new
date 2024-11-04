@@ -1,0 +1,11 @@
+pandas
+matplotlib
+seaborn
+lasio
+numpy
+plotly
+xlwings
+streamlit
+streamlit-aggrid
+openpyxl
+xlsxwriter
