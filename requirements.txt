@@ -6,6 +6,6 @@ numpy
 plotly
 xlwings
 streamlit
-streamlit-aggrid
+streamlit-aggrid==0.3.3
 openpyxl
 xlsxwriter
